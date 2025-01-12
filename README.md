@@ -60,3 +60,29 @@ ubuntu@ip-172-31-90-127 $ git clone 'your repo link'
 ubuntu@ip-172-31-90-127 $ node 'your cloned folder'/index.js
 
 // make sure it runs on the server, just as you run it locally
+
+git clone https://github.com/codeeium/my-app.git
+cd my-app
+
+
+git fetch origin v1-image-only
+git checkout v1-image-only
+
+git pull origin v1-image-only
+
+ifconfig
+curl http://checkip.amazonaws.com
+
+i-0f870d9c00c57799a
+
+---
+
+sudo systemctl start httpd
+sudo systemctl status httpd
+sudo apachectl configtest
+sudo journalctl -xeu httpd
+
+
+cat /etc/resolv.conf
+
+    
