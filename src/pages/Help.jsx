@@ -1,12 +1,13 @@
 // import React from 'react';
-import homeImage from '../assets/home.jpg';
+import homeImage from '../assets/help.jpg';
 
 const Help = () => {
     return (
-        <div style={{ textAlign: 'center', padding: '2rem' }}>
-            <img src={homeImage} alt="Home" style={{ width: '100%', height: 'auto', borderRadius: '10px' }} />
-            <h1>Welcome to the Home Page</h1>
-            <p>This is the home page of our website, styled with beautiful colors.</p>
+        <div style={{textAlign: 'center', padding: '2rem'}}>
+            <h1>Learn English Online</h1>
+            <h1>Earn $14—$22 an hour from the comfort of home.</h1>
+            <img src={homeImage} alt="Home" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
+
         </div>
     );
 };
