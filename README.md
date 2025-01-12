@@ -42,3 +42,21 @@ touch Contact.jsx
 touch Help.jsx
 # my-app
 # my-app
+
+
+1- // this line installs curl on the Ubuntu server
+$ sudo apt-get install curl
+
+2- // this line downloads Node.js
+$ curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -
+
+3- // this line installs node
+$ sudo apt-get install nodejs
+
+// run this while you are connected to your EC2 instance
+ubuntu@ip-172-31-90-127 $ git clone 'your repo link'
+
+// run this while you are connected to your EC2 instance
+ubuntu@ip-172-31-90-127 $ node 'your cloned folder'/index.js
+
+// make sure it runs on the server, just as you run it locally

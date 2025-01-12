@@ -1,10 +1,18 @@
-img {
-  display: block; /* Ensures images don’t have inline spacing */
-  width: 100%; /* Makes the image responsive */
-  max-width: 800px; /* Limits the size */
-  height: auto; /* Maintains aspect ratio */
-  border-radius: 10px; /* Adds rounded corners (optional) */
-  margin: 0 auto; /* Centers the image */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow (optional) */
+/* app.css */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
+.header {
+  background-color: #6200ea;
+  color: white;
+  padding: 1rem;
+}
+
+.footer {
+  background-color: #eee;
+  text-align: center;
+  padding: 0.5rem;
+}
