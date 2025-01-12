@@ -76,7 +76,7 @@ curl http://checkip.amazonaws.com
 i-0f870d9c00c57799a
 
 ---
-
+sudo yum install httpd
 sudo systemctl start httpd
 sudo systemctl status httpd
 sudo apachectl configtest
