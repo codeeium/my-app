@@ -85,4 +85,13 @@ sudo journalctl -xeu httpd
 
 cat /etc/resolv.conf
 
-    
+---------------
+
+sgr-0afafaf0c9fe6fbac
+IPv4
+All TCP
+TCP
+0 - 65535
+0.0.0.0/0
+–
+---------------
