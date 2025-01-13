@@ -1,12 +1,12 @@
 // import React from 'react';
-import homeImage from '../assets/home.jpg';
-import homeImage2 from '../assets/home2.jpg';
-import eng2 from '../assets/eng 2.jpg';
-import eng from '../assets/eng.png';
-import engkids from '../assets/english-books-for-kids.png';
-import engkids2 from '../assets/english-for-kids.png';
-import gif1 from '../assets/1.gif';
-import gif2 from '../assets/2.gif';
+import homeImage from '../assets/jpg/home.jpg';
+import homeImage2 from '../assets/jpg/home2.jpg';
+import eng2 from '../assets/jpg/eng 2.jpg';
+import eng from '../assets/png/eng.png';
+import engkids from '../assets/png/english-books-for-kids.png';
+import engkids2 from '../assets/png/english-for-kids.png';
+import gif1 from '../assets/gif/1.gif';
+import gif2 from '../assets/gif/2.gif';
 
 
 const Home = () => {

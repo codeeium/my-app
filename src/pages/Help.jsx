@@ -1,5 +1,5 @@
 // import React from 'react';
-import homeImage from '../assets/help.jpg';
+import homeImage from '../assets/jpg/help.jpg';
 
 const Help = () => {
     return (
