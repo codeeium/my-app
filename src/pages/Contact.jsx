@@ -1,5 +1,5 @@
 // import React from 'react';
-import homeImage from '../assets/jpg/contact.jpg';
+import homeImage from '../assets/jpg/2.jpg';
 import loc from '../assets/svg/locations-map.svg';
 
 const Contact = () => {
