@@ -12,13 +12,13 @@ const Class = () => {
             <h1>Earn $14—$22 an hour from the comfort of home.</h1>
             <h1>Learn English Online</h1>
             <d1></d1>
-            <img src={png5} alt="Home" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
+            <img src={png5} alt="Home2" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
             <d1></d1>
-            <img src={png6} alt="Home" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
+            <img src={png6} alt="Home2" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
             <d1></d1>
-            <img src={gif1} alt="Home" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
+            <img src={gif1} alt="Home2" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
             <d1></d1>
-            <img src={gif2} alt="Home" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
+            <img src={gif2} alt="Home2" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
 
         </div>
     );

@@ -17,7 +17,7 @@ Currently, two official plugins are available:
 │   ├── App.jsx
 │   ├── main.jsx
 │   ├── /pages
-│   │   ├── Home.jsx
+│   │   ├── Home2.jsx
 │   │   ├── About.jsx
 │   │   ├── Contact.jsx
 │   │   ├── Help.jsx
@@ -36,7 +36,7 @@ touch Navbar.jsx
 cd .. 
 mkdir pages
 cd pages
-touch Home.jsx
+touch Home2.jsx
 touch About.jsx
 touch Contact.jsx
 touch Help.jsx
