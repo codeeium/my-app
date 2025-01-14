@@ -5,8 +5,8 @@ import eng2 from '../assets/jpg/3.jpg';
 import eng from '../assets/png/2.png';
 import engkids from '../assets/png/3.png';
 import engkids2 from '../assets/png/4.png';
-import gif1 from '../assets/gif/1.gif';
-import gif2 from '../assets/gif/2.gif';
+// import gif1 from '../assets/gif/1.gif';
+// import gif2 from '../assets/gif/2.gif';
 import gif3 from '../assets/gif/3.gif';
 
 
@@ -26,10 +26,10 @@ const Home = () => {
             <h1></h1>
             <img src={engkids} alt="Home" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
             <h1></h1>
-            <img src={gif1} alt="Home" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
-            <h1></h1>
-            <img src={gif2} alt="Home" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
-            <h1></h1>
+            {/*<img src={gif1} alt="Home" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>*/}
+            {/*<h1></h1>*/}
+            {/*<img src={gif2} alt="Home" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>*/}
+            {/*<h1></h1>*/}
             <img src={engkids2} alt="Home" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
             <h1></h1>
             <img src={homeImage} alt="Home" style={{width: '100%', height: 'auto', borderRadius: '10px'}}/>
